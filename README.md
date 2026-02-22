@@ -4,7 +4,7 @@ This module provides a backend service for handling email submissions from a con
 
 ## 🌟 Features
 
-- **Express.js Server** for local development
+- **Express.js Server** for local development and production
 - **Nodemailer with Gmail SMTP** for sending emails
 - **Environment Variables** for secure configuration
 - **Professional Email Templates** featuring your branding
